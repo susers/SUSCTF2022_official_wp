@@ -1,0 +1,2 @@
+e=259776235785533
+message=b'For RSA, the wrong key generation method can also reveal information. You recover my secret message, and here is the flag:SUSCTF{N0n_c0prime_RSA_c1pher_cAn_a1s0_recover_me33age!!!}'

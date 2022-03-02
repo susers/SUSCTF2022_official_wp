@@ -1,0 +1,1 @@
+flag=b'SUSCTF{Maybe_th3_1nverse_Pr0b1em_has_s0m3thing_1n_comm0n_w1th_th3_LWE_Search_Problem}'
